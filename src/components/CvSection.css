@@ -1,0 +1,16 @@
+.cv-section-wrapper{
+    
+}
+
+.cv-section-table{
+    width: 80vw;
+    text-align: left;
+}
+
+.cv-table-heading{
+    font-weight:bolder;
+}
+
+.cv-table-dates{
+    font-weight:100;
+}

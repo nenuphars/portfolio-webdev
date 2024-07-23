@@ -1,0 +1,118 @@
+{
+  "education": [
+    {
+      "title": "Web Development Course",
+      "info": {
+        "degree": "Certificate ",
+        "degree_link": "https://www.credential.net/9c66750d-9ef4-4bee-9328-f1b1a1fb162d",
+        "institution": "Ironhack",
+        "institution_link": "https://www.ironhack.com/de-en",
+        "time_span": "Nov 2023 - May 2024",
+        "location": "remote",
+        "description": [
+          "Immersive 6-month bootcamp focusing on Full Stack Development for responsive web applications using JavaScript, React, HTML5, CSS3, MongoDB, Node.js, Express.js",
+          "Practical experience through 30+ practice labs, development of 3 projects"
+        ]
+      }
+    },
+    {
+      "title": "Media Art",
+      "info": {
+        "degree": "Diplom",
+        "degree_link": "",
+        "institution": "Academy of Visual Arts",
+        "institution_link": "https://www.hgb-leipzig.de/",
+        "time_span": "Oct 2012 - Feb 2020",
+        "location": "Leipzig",
+        "description": [""]
+      }
+    }
+  ],
+  "experience": [
+    {
+      "title": "Digital Artist",
+      "title_link": "https://nadine-rangosch.com/",
+      "info": {
+        "employer": "self-employed",
+        "time_span": "Jul 2014 - present",
+        "location": "Leipzig",
+        "description": ["Developing and executing digital art projects, receiving public funds and scholarships, exhibiting works publicly"]
+      }
+    },
+    {
+      "title": "Sound Designer",
+      "title_link": "",
+      "info": {
+        "employer": "self-employed",
+        "time_span": "Jul 2014 - present",
+        "location": "Leipzig",
+        "description": ["Taking initiative to improve the product by developing and executing custom solutions to improve quality of recordings"]
+      }
+    },
+    {
+      "title": "Student Tutor, Sound Lab",
+      "title_link": "",
+      "info": {
+        "employer": "Academy of Visual Arts",
+        "time_span": "Oct 2019 - Feb 2020",
+        "location": "Leipzig",
+        "description": ["Helping students with sound art projects in technical questions enabling them to conduct their own projects"]
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "Open Storage",
+      "title_link": "https://open-storage.netlify.app/",
+      "info": {
+        "time_span": "Apr - May 2024",
+        "images": [],
+        "description": [
+          "Art rental platform, on which users can search for artworks, request them for a rental, save their favourites, upgrade their profile to upload their own artworks and receive rental requests",
+          "Frontend: React, JavaScript, React Router, Custom CSS, HTML, Cloudinary, Forms, Notifications",
+          "Backend: API, MongoDB, Node.js, Express.js"
+        ],
+        "technologies": [
+          "React",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "MongoDB",
+          "Node.js",
+          "Express.js"
+        ]
+      }
+    },
+    {
+      "title": "What the Fridge",
+      "title_link": "https://whatthefridge.netlify.app/",
+      "info": {
+        "time_span": "Feb - Mar 2024",
+        "images": [],
+        "description": [
+          "Recipe App, enabling users to search recipes by different properties, create, edit or delete existing recipes",
+          "Frontend: React, JavaScript, React Router, Material UI Components, Custom CSS, HTML, Forms",
+          "Backend: JSON-Server (mock-API)"
+        ],
+        "technologies": ["React", "JavaScript", "CSS", "HTML"]
+      }
+    },
+    {
+      "title": "Diving for Treasure",
+      "title_link": "https://nenuphars.github.io/DIVING/",
+      "info": {
+        "time_span": "Dec 2023 - Jan 2024",
+        "images": [],
+        "description": [
+          "Browser game with win/lose logic, the user needs to pick up treasure from underwater to gain points, using the arrow keys to navigate and limited by a timer for each dive"
+        ],
+        "technologies": ["Vanilla JavaScript", "HTML", "CSS"]
+      }
+    }
+  ],
+  "skills":{
+    "hard_skills":["React", "JavaScript (ES6)", "HTML5", "CSS3", "MongoDB", "Express.js", "Node.js", "Git/GitHub", "Frontend Development", "Backend Development", "VSCode", "Postman", "Cloudinary"],
+    "soft_skills":["Creativity", "Curiosity", "Empathy"],
+    "languages":["German (native)", "English (C2)"]
+  }
+}
