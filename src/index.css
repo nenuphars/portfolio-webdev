@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Nunito', 'Inter', sans-serif;
-  background-color: rgb(207, 174, 185);
+  background-color: rgb(209, 184, 182);
   margin: 0;
   display: flex;
   place-items: center;
@@ -12,9 +12,17 @@ body {
 
 a {
   text-decoration: none;
+  color:black;
+}
+
+a:hover{
+  color:rgb(76, 76, 197);
+  transition-duration: 400ms;
 }
 
 .page-wrapper{
   margin-top:28vh;
-  margin-left:5vw;
+  margin-left:8vw;
+  margin: 28vh 8vw 20vh;
+  
 }

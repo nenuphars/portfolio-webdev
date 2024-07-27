@@ -1,4 +1,21 @@
 {
+  "about": [
+    {
+      "title": "My Personal Story",
+      "paragraphs": [
+        "Ever since I can remember, imagination has been one of my biggest strengths. I have many interests and developed a habit of gathering all the information I could find around them from a young age. I grew up in Germany and finished high school in the UK with my A-Levels in Fine Art, English Literature, Media Studies and Philosophy.",
+        "During my time at school in London I discovered my passion for Art and went back to Germany to study Media Art in Leipzig. I have a multicultural background and grew up with both German and English at home. I enjoy spending time with people from different backgrounds, listening to their stories and learning about their perspectives."
+      ]
+    },
+    {
+        "title":"My Interests",
+        "paragraphs":["Naturally, as an artist I am very interested in culture, most of all art and architecture. In terms of music and movies, my taste covers a wide range from acclaimed to obscure. I like to travel and discover new places, learning about the people who live there and their history.",
+    "Food and cooking plays an important role in my life. Its my way to show people that I care about them and it gives me a feeling of belonging whenever I cook my grandmothers recipes. I love it when I can cook for people to celebrate or thank them.",
+"While I was studying at Art School, I found out how much fun it is to learn new skills. During the pandemic I taught myself to knit. I find that knitting is very similar to coding, but instead of writing the code I need to understand and execute the instructions which use a lot of abbreviations and numbers. Its what I enjoy the most about learning new skills, that it enables me to create something unique and useful with my own hands.",
+"I love being outside, exploring new places and observing nature. I like to go hiking and to train my eye at identifying plants and funghi. There is nothing that relaxes me more than being in the water, especially when I can just float and observe life underwater when I go snorkelling. While I am at home I stay active with Yoga and taking care of my garden."
+]
+    }
+  ],
   "education": [
     {
       "title": "Web Development Course",
@@ -36,7 +53,9 @@
         "employer": "self-employed",
         "time_span": "Jul 2014 - present",
         "location": "Leipzig",
-        "description": ["Developing and executing digital art projects, receiving public funds and scholarships, exhibiting works publicly"]
+        "description": [
+          "Developing and executing digital art projects, receiving public funds and scholarships, exhibiting works publicly"
+        ]
       }
     },
     {
@@ -46,7 +65,9 @@
         "employer": "self-employed",
         "time_span": "Jul 2014 - present",
         "location": "Leipzig",
-        "description": ["Taking initiative to improve the product by developing and executing custom solutions to improve quality of recordings"]
+        "description": [
+          "Taking initiative to improve the product by developing and executing custom solutions to improve quality of recordings"
+        ]
       }
     },
     {
@@ -56,7 +77,9 @@
         "employer": "Academy of Visual Arts",
         "time_span": "Oct 2019 - Feb 2020",
         "location": "Leipzig",
-        "description": ["Helping students with sound art projects in technical questions enabling them to conduct their own projects"]
+        "description": [
+          "Helping students with sound art projects in technical questions enabling them to conduct their own projects"
+        ]
       }
     }
   ],
@@ -64,6 +87,8 @@
     {
       "title": "Open Storage",
       "title_link": "https://open-storage.netlify.app/",
+      "link_name": "open-storage",
+      "short_description": "An art rental platform, that brings together art-lovers with a small budget and artists with a lack of storage.",
       "info": {
         "time_span": "Apr - May 2024",
         "images": [],
@@ -86,6 +111,8 @@
     {
       "title": "What the Fridge",
       "title_link": "https://whatthefridge.netlify.app/",
+      "link_name": "what-the-fridge",
+      "short_description": "A recipe app for the indecisive, with easy recipes and multiple search options",
       "info": {
         "time_span": "Feb - Mar 2024",
         "images": [],
@@ -100,6 +127,8 @@
     {
       "title": "Diving for Treasure",
       "title_link": "https://nenuphars.github.io/DIVING/",
+      "link_name": "diving-for-treasure",
+      "short_description": "A browser game, in which the user can hunt for treasure underwater.",
       "info": {
         "time_span": "Dec 2023 - Jan 2024",
         "images": [],
@@ -110,9 +139,23 @@
       }
     }
   ],
-  "skills":{
-    "hard_skills":["React", "JavaScript (ES6)", "HTML5", "CSS3", "MongoDB", "Express.js", "Node.js", "Git/GitHub", "Frontend Development", "Backend Development", "VSCode", "Postman", "Cloudinary"],
-    "soft_skills":["Creativity", "Curiosity", "Empathy"],
-    "languages":["German (native)", "English (C2)"]
+  "skills": {
+    "hard_skills": [
+      "React",
+      "JavaScript (ES6)",
+      "HTML5",
+      "CSS3",
+      "MongoDB",
+      "Express.js",
+      "Node.js",
+      "Git/GitHub",
+      "Frontend Development",
+      "Backend Development",
+      "VSCode",
+      "Postman",
+      "Cloudinary"
+    ],
+    "soft_skills": ["Creativity", "Curiosity", "Empathy"],
+    "languages": ["German (native)", "English (C2)"]
   }
 }

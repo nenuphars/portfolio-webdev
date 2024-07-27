@@ -2,7 +2,7 @@
 import { Routes, Route } from 'react-router-dom'
 import './App.css'
 import LandingPage from './pages/LandingPage'
-import About from './pages/About'
+import AboutPage from './pages/AboutPage'
 import ProjectsPage from './pages/ProjectsPage'
 import ProjectDetailsPage from './pages/ProjectDetailsPage'
 import Navbar from './components/Navbar'
@@ -16,7 +16,7 @@ function App() {
     <Navbar />
     <Routes>
       <Route path="/" element={<LandingPage/>} />
-      <Route path="/about" element={<About/>} />
+      <Route path="/about" element={<AboutPage/>} />
       <Route path="/projects" element={<ProjectsPage/>} />
       <Route path="/projects/:name" element={<ProjectDetailsPage/>} />
       <Route path="/path" element={<ExperienceEducationPage/>} />

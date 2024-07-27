@@ -1,0 +1,45 @@
+.project-card-wrapper{
+    display:flex;
+    flex-direction: row;
+    gap:0.8rem;
+    padding: 20px 12px;
+    margin: 20px 0;
+    background-color: rgb(252, 240, 238);
+    border-radius: 10px;
+}
+.project-card-image-wrapper{
+    width:60%;
+    height:280px;
+    background-color: black;
+    border-radius: 10px;
+}
+.project-card-info-wrapper{
+    width:40%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+
+}
+.project-card-link{
+
+}
+.project-card-dates{
+
+}
+.project-card-description{
+
+}
+.project-card-technologies-wrapper{
+    display: flex;
+    gap:0.6rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.technology-bubble{
+    background-color: rgb(163, 205, 191);
+    border-radius: 6px;
+    padding: 6px;
+    line-height: 1ch;
+}

@@ -1,8 +1,8 @@
 #navbar-wrapper {
-    height: 20vh;
+    height: 16%;
     width:100vw;
     background-color: rgb(76, 76, 197);
-    position: absolute;
+    position: fixed;
     top: 0;
 }
 #links-wrapper {
@@ -14,11 +14,13 @@
     gap:1rem;
 }
 
-#navbar-wrapper:hover {
-    height: 21vh;
-    transition-duration: 300ms;
-}
 
 .nav-links {
     color:beige;
+    font-weight: 500;
+}
+
+.nav-links:hover{
+    color:lightcoral;
+    transition-duration: 400ms;
 }
